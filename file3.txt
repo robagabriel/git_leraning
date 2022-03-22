@@ -3,4 +3,3 @@
 g
 h
 i j m n
-s 
